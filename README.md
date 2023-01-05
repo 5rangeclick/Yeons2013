@@ -26,7 +26,7 @@
   + Summarization
   + Model performance improvement
 
-### 4. NWeb service implementation
+### 4. Web service implementation
   + Python Flask
   + SQL
   + HTML, CSS, JavaScript
