@@ -35,6 +35,6 @@
 ***
 
 ## Awards
-+ Dacon 2022 Tourism Data AI Contest Excellence Award
-+ Dacon2022 Sentence Classification AI Contest Encouragement Award
++ <a href="https://dacon.io/competitions/official/235978/overview/description">Dacon 2022 Tourism Data AI Contest Excellence Award</a>
++ <a href="https://dacon.io/competitions/official/236037/overview/description">Dacon2022 Sentence Classification AI Contest Encouragement Award</a>
 <img src="https://media.discordapp.net/attachments/1002189622912221250/1060487598642044948/6b85bddd246b2388.JPG?width=868&height=676" width="300 " height="280">
